@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fjafry/My-test/issues"
   },
-  "homepage": "https://github.com/fjafry/My-test#readme"
+  "homepage": "https://github.com/fjafry/My-test#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
